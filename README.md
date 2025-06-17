@@ -1,6 +1,6 @@
 ### Hello there, I’m Minh 👋
 
-Currently I'm playing with android stuff, making apps run on android mobile devices at Tapuniverse in Vietnam.
+Currently I'm playing with android stuff, making apps related Media and AI.
 - Email: huyminhh1998@gmail.com
 
 <!---
