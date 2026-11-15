@@ -1,6 +1,7 @@
 ### Hello there, I’m Minh 👋
 
 Currently I'm playing with android stuff, making apps related Media and AI.
+Update more later
 - Email: huyminhh1998@gmail.com
 
 <!---
